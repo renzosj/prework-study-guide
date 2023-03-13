@@ -3,9 +3,9 @@
 ## Description
 
 The purpose of the Prework Study Guide is as follows:
-    - To collect prework notes on HTML, CSS, git/github, and JavaScript in an easy-to-read webpage
-    - To apply the fundamentals learned in the prework through the creation of the webpage
-    - To serve as a tangible reminder of accomplishment for the aspiring web developer enrolled in the bootcamp
+- To collect prework notes on HTML, CSS, git/github, and JavaScript in an easy-to-read webpage
+- To apply the fundamentals learned in the prework through the creation of the webpage
+- To serve as a tangible reminder of accomplishment for the aspiring web developer enrolled in the bootcamp
 
 ## Installation
 
